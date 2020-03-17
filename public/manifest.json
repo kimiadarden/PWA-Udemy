@@ -1,7 +1,7 @@
 {
     "name": "Instagram as Progressive Web App",
     "short_name": "PWAGram",
-    "Start_url": "/index.html",
+    "start_url": "/index.html",
     "scope": ".",
     "display": "standalone",
     "background_color": "#fff",
@@ -45,13 +45,6 @@
             "src": "/src/images/icons/app-icon-512x512.png",
             "type": "image/png",
             "sizes": "512x512"
-        }
-    ],
-    "related_application": [
-        {
-            "platform": "play",
-            "url": "https://play.google.come/store/apps/details?id=come.example.app1",
-            "id": "com.example.app1"
         }
     ]
 }
